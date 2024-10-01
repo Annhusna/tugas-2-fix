@@ -1,0 +1,86 @@
+body {
+  background-color: #ecf7fd;
+}
+.navigation {
+  justify-content: center;
+  flex-flow: row-wrap;
+  background-color: #004aad;
+  padding: 25px;
+  margin-top: -10px;
+  word-spacing: 100px;
+}
+a[href] {
+  color: #ecf7fd;
+  font-size: larger;
+}
+#learnskill-satu {
+  margin-top: 100px;
+  margin-left: 80px;
+  font-size: 70px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: #004aad;
+}
+#quotes {
+  justify-content: flex-star;
+  margin-left: 70px;
+  margin-right: 100px;
+  margin-top: 50px;
+  font-size: 60px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: #d08300;
+}
+img[src="./Desain tanpa judul.jpg"] {
+  width: 500px;
+  height: 500px;
+}
+.kolom-testi {
+  background-color: #004aad;
+  color: #ecf7fd;
+  padding: 20px;
+  margin-top: 5cm;
+}
+.testi {
+  display: flex;
+  justify-content: center;
+  font-size: 20px;
+}
+.kursus {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  color: #004aad;
+  font-size: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin-left: 3cm;
+  margin-right: 3cm;
+}
+img[src="./animasi2.jpg"] {
+  width: 500px;
+  height: 500px;
+  margin-left: 100px;
+}
+.button {
+  background-color: #eec40b;
+  border: none;
+  color: #ecf7fd;
+  padding: 40px 80px;
+  text-align: center;
+  display: inline-block;
+  margin: 200px 30px;
+  cursor: pointer;
+  border-radius: 50px;
+  justify-content: center;
+}
+.button:hover {
+  background-color: #d08300;
+}
+.kontak {
+  background-color: #004aad;
+  color: #ecf7fd;
+}
+.kontak2 {
+  display: flex;
+  justify-content: space-around;
+  margin-right: 5cm;
+  margin-left: 5cm;
+}

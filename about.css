@@ -1,0 +1,73 @@
+img[src="./Learn Skill.jpg"] {
+  width: 150px;
+  height: 80px;
+  margin-top: -35px;
+}
+.navigation {
+  justify-content: center;
+  flex-flow: row-wrap;
+  background-color: #004aad;
+  padding: 25px;
+  margin-top: -10px;
+  word-spacing: 100px;
+}
+a[href] {
+  color: #ecf7fd;
+  font-size: larger;
+  margin-left: 3cm;
+}
+body {
+  background-color: #ecf7fd;
+}
+img[src="./background.jpg"] {
+  width: 1700px;
+  height: 700px;
+  opacity: calc(30%);
+  margin-top: -20px;
+  margin-right: 200px;
+}
+container {
+  position: relative;
+  text-align: center;
+  color: #004aad;
+}
+.top-left {
+  position: absolute;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+.aboutus {
+  font-size: 40px;
+  color: #004aad;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.letter {
+  font-size: 40px;
+}
+.format-ceo {
+  display: flex;
+  justify-content: space-between;
+}
+.ceo-name {
+  font-size: 40px;
+  color: #004aad;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.potoceo {
+  height: 300px;
+  width: auto;
+}
+.profil {
+  font-size: 30px;
+  margin-top: 30px;
+}
+.kontak {
+  background-color: #004aad;
+  color: #ecf7fd;
+}
+.kontak2 {
+  display: flex;
+  justify-content: space-around;
+  margin-right: 5cm;
+  margin-left: 5cm;
+}

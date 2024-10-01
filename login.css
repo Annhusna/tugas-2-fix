@@ -1,0 +1,41 @@
+img[src="./Learn Skill.jpg"] {
+  width: 150px;
+  height: 80px;
+  margin-top: -35px;
+}
+.navigation {
+  justify-content: center;
+  flex-flow: row-wrap;
+  background-color: #004aad;
+  padding: 25px;
+  margin-top: -10px;
+  word-spacing: 100px;
+}
+a[href] {
+  color:#ecf7fd;
+  font-size: larger;
+  margin-left: 3cm;
+  text-decoration: none;
+}
+body {
+  background-color: #004aad;
+}
+#learnskill-satu {
+  margin-top: 2cm;
+  margin-left: 6cm;
+  font-size: 80px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: #ecf7fd;
+}
+#quotes {
+  font-size: 55px;
+  margin-top: -1cm;
+  margin-left: 4cm;
+  margin-right: 24cm;
+  color: #ecf7fd;
+}
+.formal-girl {
+  height: 600px;
+  width: auto;
+  margin-left: 4cm;
+}
